@@ -1,0 +1,39 @@
+.crew {
+  border-right-color: rgb(0, 0, 0);
+  border-right-width: 1px;
+  text-align: center;
+}
+.shift1 {
+  border-right-style: dashed;
+}
+.shift2 {
+  border-right-style: solid;
+}
+.head1 {
+  background: rgba(238, 223, 139, 0.658);
+}
+.head2 {
+  background: rgba(112, 198, 255, 0.568);
+}
+.workforcebtn {
+  width: 100%;
+}
+.position {
+  font-weight: bold;
+}
+.dropdownPeople {
+  border: none !important;
+  font-weight: normal !important;
+}
+.red {
+  color: red;
+}
+.dropdownSelect:hover {
+  background: rgba(162, 162, 255, 0.774);
+  cursor: pointer;
+}
+.dropdownMenu {
+  background: "#ffffff";
+  max-height: 200px;
+  overflow-y: scroll;
+}
